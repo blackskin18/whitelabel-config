@@ -4,7 +4,7 @@
   ],
   "menuLinks": [
     {
-      "icon": "docs.svg",
+      "icon": "pad.svg",
       "name": "Pad",
       "link": "/pad",
       "target": "_self"
@@ -16,7 +16,7 @@
       "target": "_blank"
     },
     {
-      "icon": "/pad.svg",
+      "icon": "help.svg",
       "name": "Help",
       "link": "https://help.lz.finance/",
       "target": "_blank"
@@ -29,7 +29,7 @@
     },
     {
       "href": "https://t.me/launchzoneann",
-      "icon": "globalcommunitylogo.svg"
+      "icon": "global-community.svg"
     },
     {
       "href": "https://twitter.com/launchzoneann",
@@ -37,7 +37,7 @@
     },
     {
       "href": "https://www.facebook.com/launchzoneann",
-      "icon": "facebooklogo.svg"
+      "icon": "facebook.svg"
     }
   ]
 }
