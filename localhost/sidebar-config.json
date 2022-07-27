@@ -2,7 +2,7 @@
   "disabledApps": [
     "earn"
   ],
-  "linkMenus": [
+  "menuLinks": [
     {
       "icon": "docs.svg",
       "name": "Pad",
