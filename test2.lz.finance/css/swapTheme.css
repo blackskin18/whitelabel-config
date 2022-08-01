@@ -14,7 +14,6 @@
 .swap-page-interface.dark {
     --swap-loading-background-color: #353535;
     --swap-layout-background-color: #000000;
-
     --swap-color-text-default: #ffffff;
     --swap-color-box-border: rgba(256, 256, 256, 0.2);
     --swap-color-box-bg: #2A2C32;
