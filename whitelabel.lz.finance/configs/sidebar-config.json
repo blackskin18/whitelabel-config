@@ -1,14 +1,9 @@
 {
   "disabledApps": [
-    "earn"
+    "earn",
+    "home"
   ],
   "menuLinks": [
-    {
-      "icon": "pad.svg",
-      "name": "Pad",
-      "link": "/pad",
-      "target": "_self"
-    },
     {
       "icon": "docs.svg",
       "name": "Docs",
