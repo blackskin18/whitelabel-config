@@ -1,5 +1,7 @@
 {
-  "disabledApps": [],
+  "disabledApps": [
+    "earn"
+  ],
   "menuLinks": [
     {
       "icon": "pad.svg",
