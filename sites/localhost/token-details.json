@@ -33,5 +33,17 @@
     "suffix": "BSC",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png",
     "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82"
+  },
+  "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c": {
+    "name": "Wrapped BNB",
+    "network": "binance-smart-chain",
+    "decimal": 18,
+    "symbol": "WBNB",
+    "cmcId": 7192,
+    "cgkId": "wbnb",
+    "isSegWit": false,
+    "suffix": "BSC",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7192.png",
+    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
   }
 }
