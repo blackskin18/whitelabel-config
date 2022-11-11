@@ -1,4 +1,16 @@
 {
+  "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
+    "name": "Binance Coin",
+    "network": "binance-smart-chain",
+    "decimal": 18,
+    "symbol": "BNB",
+    "cmcId": 1839,
+    "cgkId": "binancecoin",
+    "isSegWit": false,
+    "suffix": "BSC",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+    "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+  },
   "0x3FdA9383A84C05eC8f7630Fe10AdF1fAC13241CC": {
     "name": "DEGO BEP20",
     "network": "binance-smart-chain",
@@ -22,7 +34,7 @@
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png",
     "address": "0xfd5840cd36d94d7229439859c0112a4185bc0255"
   },
-  "0xb5389a679151c4b8621b1098c6e0961a3cfee8d4": {
+  "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c": {
     "name": "Wrapped BNB",
     "network": "binance-smart-chain",
     "decimal": 18,
@@ -31,17 +43,7 @@
     "cgkId": "wbnb",
     "isSegWit": false,
     "suffix": "BSC",
-    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7192.png",
-    "address": "0xb5389a679151c4b8621b1098c6e0961a3cfee8d4"
-  },
-  "0x15B3d410fCd0d695E1bbe4F717F8E1B6D0Fb2D0C": {
-    "name": "fry.KetchupV2",
-    "network": "binance-smart-chain",
-    "decimal": 18,
-    "symbol": "KHP ",
-    "isSegWit": false,
-    "suffix": "BSC",
     "logo": "https://bscscan.com/token/images/fry-ketchup_32.png",
-    "address": "0x15B3d410fCd0d695E1bbe4F717F8E1B6D0Fb2D0C"
+    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
   }
 }
