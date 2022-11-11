@@ -22,7 +22,7 @@
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7087.png",
     "address": "0x3FdA9383A84C05eC8f7630Fe10AdF1fAC13241CC"
   },
-  "0xfd5840cd36d94d7229439859c0112a4185bc0255": {
+  "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82": {
     "name": "PancakeSwap",
     "network": "binance-smart-chain",
     "decimal": 18,
@@ -32,9 +32,9 @@
     "isSegWit": false,
     "suffix": "BSC",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png",
-    "address": "0xfd5840cd36d94d7229439859c0112a4185bc0255"
+    "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82"
   },
-  "0xb5389a679151c4b8621b1098c6e0961a3cfee8d4": {
+  "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c": {
     "name": "Wrapped BNB",
     "network": "binance-smart-chain",
     "decimal": 18,
@@ -44,8 +44,8 @@
     "isSegWit": false,
     "suffix": "BSC",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7192.png",
-    "address": "0xb5389a679151c4b8621b1098c6e0961a3cfee8d4"
-  }
+    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+  },
    "0x15B3d410fCd0d695E1bbe4F717F8E1B6D0Fb2D0C": {
     "name": "fry.KetchupV2",
     "network": "binance-smart-chain",
