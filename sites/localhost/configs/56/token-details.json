@@ -1,16 +1,4 @@
 {
-  "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
-    "name": "Binance Coin",
-    "network": "binance-smart-chain",
-    "decimal": 18,
-    "symbol": "BNB",
-    "cmcId": 1839,
-    "cgkId": "binancecoin",
-    "isSegWit": false,
-    "suffix": "BSC",
-    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
-    "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-  },
   "0x3FdA9383A84C05eC8f7630Fe10AdF1fAC13241CC": {
     "name": "DEGO BEP20",
     "network": "binance-smart-chain",
