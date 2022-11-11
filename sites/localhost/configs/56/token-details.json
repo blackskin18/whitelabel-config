@@ -45,7 +45,7 @@
     "suffix": "BSC",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7192.png",
     "address": "0xb5389a679151c4b8621b1098c6e0961a3cfee8d4"
-  },
+  }
   "0x15B3d410fCd0d695E1bbe4F717F8E1B6D0Fb2D0C": {
     "name": "fry.KetchupV2",
     "network": "binance-smart-chain",
