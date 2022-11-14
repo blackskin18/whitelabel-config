@@ -4,7 +4,7 @@
     "decimal": 18,
     "symbol": "ETH",
     "isSegWit": false,
-    "logo": "https://arbiscan.io/token/images/tether_32.png",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
     "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
   },
   "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1": {
@@ -27,5 +27,12 @@
     "name": "USD Coin (Arb1)",
     "decimal": 6,
     "symbol": "USDC"
+  },
+  "0x71eebA415A523F5C952Cc2f06361D5443545Ad28": {
+    "logo": "https://arbiscan.io/token/images/centre-usdc_28.png",
+    "address": "0x71eebA415A523F5C952Cc2f06361D5443545Ad28",
+    "name": "XDAO",
+    "decimal": 18,
+    "symbol": "XDAO"
   }
 }
