@@ -50,20 +50,10 @@
     "name": "fry.KetchupV2",
     "network": "binance-smart-chain",
     "decimal": 18,
-    "symbol": "KHP",
+    "symbol": "KHP ",
     "isSegWit": false,
     "suffix": "BSC",
     "logo": "https://bscscan.com/token/images/fry-ketchup_32.png",
     "address": "0x15B3d410fCd0d695E1bbe4F717F8E1B6D0Fb2D0C"
-  },
-  "0xafb64e73def6faa8b6ef9a6fb7312d5c4c15ebdb": {
-    "name": "Grove Token",
-    "network": "binance-smart-chain",
-    "decimal": 18,
-    "symbol": "GVR",
-    "isSegWit": false,
-    "suffix": "BSC",
-    "logo": "https://bscscan.com/token/images/grovetoken_32.png",
-    "address": "0xafb64e73def6faa8b6ef9a6fb7312d5c4c15ebdb"
   }
 }
