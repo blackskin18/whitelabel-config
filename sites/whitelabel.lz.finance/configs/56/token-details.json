@@ -10,7 +10,7 @@
     "suffix": "BSC",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7087.png",
     "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-  }
+  },
   "0x3FdA9383A84C05eC8f7630Fe10AdF1fAC13241CC": {
     "name": "DEGO BEP20",
     "network": "binance-smart-chain",
@@ -21,7 +21,7 @@
     "suffix": "BSC",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7087.png",
     "address": "0x3FdA9383A84C05eC8f7630Fe10AdF1fAC13241CC"
-  }
+  },
   "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82": {
     "name": "PancakeSwap",
     "network": "binance-smart-chain",
@@ -33,7 +33,7 @@
     "suffix": "BSC",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png",
     "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82"
-  }
+  },
   "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c": {
     "name": "Wrapped BNB",
     "network": "binance-smart-chain",
@@ -65,7 +65,7 @@
     "suffix": "BSC",
     "logo": "https://bscscan.com/token/images/adonis_32.png",
     "address": "0xCD392021084683803525FE5E6c00cAe9C6bE5774"
-  }
+  },
    "0xaFb64E73dEf6fAa8B6Ef9a6fb7312d5C4C15ebdb": {
     "name": "Grove Token",
     "network": "binance-smart-chain",
