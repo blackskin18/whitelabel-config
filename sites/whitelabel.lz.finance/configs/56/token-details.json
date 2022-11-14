@@ -10,7 +10,7 @@
     "suffix": "BSC",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
     "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-  },
+  }
   "0x3FdA9383A84C05eC8f7630Fe10AdF1fAC13241CC": {
     "name": "DEGO BEP20",
     "network": "binance-smart-chain",
@@ -21,7 +21,7 @@
     "suffix": "BSC",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7087.png",
     "address": "0x3FdA9383A84C05eC8f7630Fe10AdF1fAC13241CC"
-  },
+  }
   "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82": {
     "name": "PancakeSwap",
     "network": "binance-smart-chain",
