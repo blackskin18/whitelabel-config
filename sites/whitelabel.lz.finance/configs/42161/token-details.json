@@ -1,11 +1,8 @@
 {
   "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
     "name": "ETH",
-    "network": "binance-smart-chain",
     "decimal": 18,
     "symbol": "ETH",
-    "cmcId": 1839,
-    "cgkId": "binancecoin",
     "isSegWit": false,
     "logo": "https://arbiscan.io/token/images/tether_32.png",
     "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
