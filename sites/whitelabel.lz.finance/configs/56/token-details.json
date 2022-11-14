@@ -65,5 +65,15 @@
     "suffix": "BSC",
     "logo": "https://bscscan.com/token/images/adonis_32.png",
     "address": "0xCD392021084683803525FE5E6c00cAe9C6bE5774"
+  },
+   "0xaFb64E73dEf6fAa8B6Ef9a6fb7312d5C4C15ebdb": {
+    "name": "Grove Token",
+    "network": "binance-smart-chain",
+    "decimal": 18,
+    "symbol": "GVR",
+    "isSegWit": false,
+    "suffix": "BSC",
+    "logo": "https://bscscan.com/token/images/grovetoken_32.png",
+    "address": "0xaFb64E73dEf6fAa8B6Ef9a6fb7312d5C4C15ebdb"
   }
 }
