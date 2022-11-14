@@ -56,14 +56,14 @@
     "logo": "https://bscscan.com/token/images/fry-ketchup_32.png",
     "address": "0x15B3d410fCd0d695E1bbe4F717F8E1B6D0Fb2D0C"
   },
-   "0xaFb64E73dEf6fAa8B6Ef9a6fb7312d5C4C15ebdb": {
-    "name": "Grove Token",
+   "0xCD392021084683803525FE5E6c00cAe9C6bE5774": {
+    "name": "Adonis",
     "network": "binance-smart-chain",
     "decimal": 18,
-    "symbol": "GVR",
+    "symbol": "ADON",
     "isSegWit": false,
     "suffix": "BSC",
     "logo": "https://bscscan.com/token/images/grovetoken_32.png",
-    "address": "0xaFb64E73dEf6fAa8B6Ef9a6fb7312d5C4C15ebdb"
+    "address": "0xCD392021084683803525FE5E6c00cAe9C6bE5774"
   }
 }
