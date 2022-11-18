@@ -6,7 +6,7 @@
     "bg2": "#ffffff",
     "bg5": "#0c053d",
     "primaryHover": "#E8C95E",
-    "primary": "#0052CC",
+    "primary": "#E8C95E",
     "sell": "#EF5350",
     "buy": "#58C27D",
     "overallBg": "#e5e5e5",
@@ -35,7 +35,7 @@
     "newLine": "#353535",
     "t": {
       "primary": "#fff",
-      "yellow": "#0052CC",
+      "yellow": "#E8C95E",
       "sell": "#ef5350",
       "buy": "#58c27d"
     }
