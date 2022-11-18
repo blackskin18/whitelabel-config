@@ -8,7 +8,7 @@
     "cgkId": "binancecoin",
     "isSegWit": false,
     "suffix": "BSC",
-    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7087.png",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
     "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
   },
   "0x3FdA9383A84C05eC8f7630Fe10AdF1fAC13241CC": {
@@ -45,35 +45,5 @@
     "suffix": "BSC",
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7192.png",
     "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
-  },
-   "0x15B3d410fCd0d695E1bbe4F717F8E1B6D0Fb2D0C": {
-    "name": "fry.KetchupV2",
-    "network": "binance-smart-chain",
-    "decimal": 18,
-    "symbol": "KHP",
-    "isSegWit": false,
-    "suffix": "BSC",
-    "logo": "https://bscscan.com/token/images/fry-ketchup_32.png",
-    "address": "0x15B3d410fCd0d695E1bbe4F717F8E1B6D0Fb2D0C"
-  },
-   "0xCD392021084683803525FE5E6c00cAe9C6bE5774": {
-    "name": "Adonis",
-    "network": "binance-smart-chain",
-    "decimal": 18,
-    "symbol": "ADON",
-    "isSegWit": false,
-    "suffix": "BSC",
-    "logo": "https://bscscan.com/token/images/adonis_32.png",
-    "address": "0xCD392021084683803525FE5E6c00cAe9C6bE5774"
-  },
-   "0xaFb64E73dEf6fAa8B6Ef9a6fb7312d5C4C15ebDB": {
-    "name": "Grove Token",
-    "network": "binance-smart-chain",
-    "decimal": 18,
-    "symbol": "GVR",
-    "isSegWit": false,
-    "suffix": "BSC",
-    "logo": "https://bscscan.com/token/images/grovetoken_32.png",
-    "address": "0xaFb64E73dEf6fAa8B6Ef9a6fb7312d5C4C15ebDB"
   }
 }
